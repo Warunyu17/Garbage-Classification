@@ -1,1 +1,1 @@
-"# Garbage-Classification" 
+"Simple Garbage-Classification" 
